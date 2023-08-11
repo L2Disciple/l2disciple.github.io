@@ -2443,3 +2443,14 @@ input, select, textarea {
 					}
 
 	}
+
+.rank-one {
+	position: fixed;
+	top: 3.5em;
+	left: 0;
+	z-index: 10001;
+}
+
+.rank-one-image {
+	width: 5.5em;
+}
